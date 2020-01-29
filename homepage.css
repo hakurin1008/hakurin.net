@@ -11,7 +11,8 @@
 }
 #contents body {
 	font-family: none;
-	font-family: 'Noto Serif', 'Noto Sans JP', serif, sans-serif !important;
+	font-family: "Noto Serif", serif !important;
+	font-family: "Noto Sans JP", sans-serif !important;
 	font-size: 120%;
 }
 #contents .con_event {
